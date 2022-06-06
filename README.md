@@ -1,4 +1,4 @@
-# Esophageal Cancer Project, 2014
+# Next-Gen Sequencing Esophageal Cancer Project, 2014
 
 ## Description
 This was a Directed Study Project to find a way to analyze and predict possible cancer-causing genes in a population from Northeastern Iran which has a high incidence rate of esophageal squamous cell carcinoma using Next-Gen Sequencing data of cancer patients from that region.
