@@ -1,7 +1,7 @@
 # Esophageal Cancer Project, 2014
 
 ## Description
-This was a Directed Study Project to find a way to analyze and predict possible cancer-causing genes in a population from Northeastern Iran which has a high incidence rate of esophageal squamous cell carcinoma.
+This was a Directed Study Project to find a way to analyze and predict possible cancer-causing genes in a population from Northeastern Iran which has a high incidence rate of esophageal squamous cell carcinoma using Next-Gen Sequencing data of cancer patients from that region.
 
 ## Fellows
 This project was designed by **Dr. Ancha Baranova** for a group of 5-10 graduate students.  The final paper that resulted from an amalgamation of research, including our contribution, is available [online](https://journals.sagepub.com/doi/full/10.1177/1010428317699115) or uploaded here as a [PDF](NovelCandidateBaranova2017.pdf).  My group's particular contribution is much of the section on Data Analysis.
